@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is simple react js project, this will be helpful for beginners for aware of components how it will works and how styles are attached with file and for clear the basics. 
+For visit on this website click on https://check-bmi-calculator.netlify.app/ this link.
 ## Available Scripts
 
 In the project directory, you can run:
